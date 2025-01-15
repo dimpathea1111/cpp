@@ -4,6 +4,8 @@
         "ostream": "cpp",
         "istream": "cpp",
         "new": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "array": "cpp",
+        "string_view": "cpp"
     }
 }
